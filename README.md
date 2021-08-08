@@ -1,4 +1,6 @@
 # Shoot-em Down
+ Version Unity 2019.4.18f1.
+ 
  The goal of this game prototype is to score the maximum number of points by clicking on opponents(LMB).
  
  At the beginning the player is given a supply of points (10) and a time (30) seconds.
